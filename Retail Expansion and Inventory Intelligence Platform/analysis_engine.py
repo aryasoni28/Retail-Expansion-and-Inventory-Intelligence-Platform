@@ -65,7 +65,7 @@ class AnalysisEngine:
             
             # Call Gemini API (replace with your actual API key and endpoint)
             api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-            api_key = "AIzaSyAO-UuWSkFXk9UZB8AyNKhPIcJEJFLeUR0"  # Should be stored securely
+            api_key = "your_gemini_api_key_here"  # Should be stored securely
             
             response = requests.post(
                 f"{api_url}?key={api_key}",
