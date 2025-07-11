@@ -6,9 +6,9 @@ analysis:
   target_turnover: 20
 apis:
   census:
-    key: c7628f551572c7f4af83313467b7e11fa569a185
+    key: "your_census_api_key_here"
   gemini:
-    key: AIzaSyAO-UuWSkFXk9UZB8AyNKhPIcJEJFLeUR0
+    key: "your_gemini_api_key_here"
 visualization:
   default_zoom: 4
   map_center:
