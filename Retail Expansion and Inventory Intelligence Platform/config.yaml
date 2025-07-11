@@ -1,0 +1,16 @@
+analysis:
+  break_even_months: 36
+  budget: 80
+  max_candidates: 100
+  search_radius_miles: 15
+  target_turnover: 20
+apis:
+  census:
+    key: c7628f551572c7f4af83313467b7e11fa569a185
+  gemini:
+    key: AIzaSyAO-UuWSkFXk9UZB8AyNKhPIcJEJFLeUR0
+visualization:
+  default_zoom: 4
+  map_center:
+  - 39.8283
+  - -98.5795
