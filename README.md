@@ -166,9 +166,6 @@ Push to branch (git push origin feature/improvement)
 
 Open Pull Request
 
-📜 License
-MIT License - See LICENSE for details.
-
 📬 Contact
-Your Name
+Arya
 aryarsoni2020@gmail.com
