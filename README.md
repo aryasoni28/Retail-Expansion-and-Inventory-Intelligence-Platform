@@ -108,6 +108,7 @@ Sample debug output:
 
 
 📂 File Structure
+```bash
 walmart-analytics-suite/
 ├── core/
 │   ├── analysis_engine.py       # Main analysis logic
@@ -136,7 +137,7 @@ scikit-learn==1.3.0
 geopy==2.3.0
 requests==2.31.0
 pyyaml==6.0
-
+```
 🔑 API Keys Required
 Service	Use Case	
 US Census	Demographic data	
