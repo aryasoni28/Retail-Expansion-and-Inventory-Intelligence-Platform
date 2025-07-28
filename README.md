@@ -141,22 +141,34 @@ pyyaml==6.0
 🔑 API Keys Required:
 
 Service	Use Case	
+
 US Census	Demographic data	
+
 Gemini AI	Location explanations
+
 OpenStreetMap	Competitor locations	
 
+
 🚨 Troubleshooting
+
 Problem: Gemini API not responding
-✅ Run python debug_gemini.py
-✅ Verify key in config.yaml and Google Cloud Console
+
+Run python debug_gemini.py
+
+Verify key in config.yaml and Google Cloud Console
+
 
 Problem: No locations found
-✅ Increase search_radius_miles in config
-✅ Check debug.py for working parameters
+
+Increase search_radius_miles in config
+
+Check debug.py for working parameters
 
 Problem: Map not displaying
-✅ Verify Folium version matches requirements
-✅ Inspect generated debug_map.html
+
+Verify Folium version matches requirements
+
+Inspect generated debug_map.html
 
 
 🤝 Contributing
