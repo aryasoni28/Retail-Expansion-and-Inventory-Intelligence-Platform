@@ -138,7 +138,8 @@ geopy==2.3.0
 requests==2.31.0
 pyyaml==6.0
 ```
-🔑 API Keys Required
+🔑 API Keys Required:
+
 Service	Use Case	
 US Census	Demographic data	
 Gemini AI	Location explanations
