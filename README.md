@@ -77,10 +77,10 @@ export CENSUS_KEY="your_key"
 export GEMINI_KEY="your_key"
 
 ```
-Usage:
-Main Application
+Run code:
+```bash
 streamlit run enhancedintegratedapp.py
-
+```
 DEBUG TOOLS:
 # Test Gemini API
 python debug_gemini.py
@@ -101,10 +101,10 @@ test_census.py	Census API test	Sample demographic data
 
 Sample debug output:
 🔍 Starting DEBUG TEST V3
-1. Testing Engine Initialization... ✅ 0.45s
-2. Testing Location Generation... 🌍 5 locations
-3. Testing Analysis... 🎯 3 valid locations
-4. Testing Visualization... ✅ Map saved
+1. Testing Engine Initialization... 0.45s
+2. Testing Location Generation... 5 locations
+3. Testing Analysis... 3 valid locations
+4. Testing Visualization... Map saved
 
 
 📂 File Structure
@@ -171,3 +171,8 @@ Open Pull Request
 📬 Contact
 Arya
 aryarsoni2020@gmail.com
+Screenshots:
+<img width="1907" height="989" alt="image" src="https://github.com/user-attachments/assets/17c333ac-fdc4-479f-ae97-ff1753369726" />
+<img width="1883" height="866" alt="image" src="https://github.com/user-attachments/assets/cee079ca-d6e4-457a-ab9f-46f805e195b4" />
+NOTE:The screenshots below highlight a few of the core features of the project. However, the project includes several additional features that are not shown here.
+
