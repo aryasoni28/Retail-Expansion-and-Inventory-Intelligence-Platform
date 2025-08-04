@@ -2,7 +2,7 @@
 
 # Retail Analytics Suite
 
-## 📌 Table of Contents
+##  Table of Contents
 - [Features](#-features)
 - [Installation](#-installation)
 - [Configuration](#-configuration)
@@ -18,36 +18,36 @@
 <img width="1770" height="749" alt="image" src="https://github.com/user-attachments/assets/3692124b-ff33-48bc-b844-d976a06e6994" />
 
 
-## 🌟 Features
+##  Features
 
-### 🏪 Site Selector Pro
+###  Site Selector Pro
 - AI-powered location analysis for optimal new store placement
 - Demographic profiling with US Census data integration
 - Competitor mapping within customizable radius (1-50 miles)
 - Financial modeling with break-even calculations
 - Interactive Folium maps with top candidate locations
 
-### ⚡ Demand Shock Simulator
+###  Demand Shock Simulator
 - Festival impact modeling (Diwali, Thanksgiving, etc.)
 - Weather condition analysis (snow, heatwave, rain)
 - Discount impact projections
 - State-specific demand patterns
 - Visualization of demand changes
 
-### 📦 Inventory Prediction
+###  Inventory Prediction
 - LightGBM machine learning forecasting
 - Time-series analysis with lag features
 - Store clustering based on demographics
 - Interactive Plotly dashboards
 - Excel/CSV report generation
 
-### 🐞 Debugging Tools
+###  Debugging Tools
 - API connection testers (Gemini, Census)
 - End-to-end system debug script
 - Map visualization inspection
 - Sample test cases with known-good parameters
 
-## 🛠 Installation
+##  Installation
 
 ```bash
 # Clone repository
@@ -92,7 +92,7 @@ python test_census.py
 python debug.py  # Generates debug_map.html
 
 
-🔍 Testing & Debugging
+ Testing & Debugging
 Script	Purpose	Output
 debug.py	Full system test	HTML map, console log
 debug_gemini.py	Gemini API test	Connection status
@@ -100,14 +100,14 @@ test_census.py	Census API test	Sample demographic data
 
 
 Sample debug output:
-🔍 Starting DEBUG TEST V3
+ Starting DEBUG TEST V3
 1. Testing Engine Initialization... 0.45s
 2. Testing Location Generation... 5 locations
 3. Testing Analysis... 3 valid locations
 4. Testing Visualization... Map saved
 
 
-📂 File Structure
+ File Structure
 ```bash
 walmart-analytics-suite/
 ├── core/
@@ -138,7 +138,7 @@ geopy==2.3.0
 requests==2.31.0
 pyyaml==6.0
 ```
-🔑 API Keys Required:	
+ API Keys Required:	
 
 -US Census	Demographic data	
 
@@ -148,7 +148,7 @@ pyyaml==6.0
 
 
 
-🚨 Troubleshooting
+ Troubleshooting
 
 Problem: Gemini API not responding
 
@@ -170,7 +170,7 @@ Problem: Map not displaying
 -Inspect generated debug_map.html
 
 
-🤝 Contributing
+ Contributing
 Fork the repository
 
 Create feature branch (git checkout -b feature/improvement)
@@ -181,7 +181,7 @@ Push to branch (git push origin feature/improvement)
 
 Open Pull Request
 
-📬 Contact
+ Contact
 Arya
 aryarsoni2020@gmail.com
 
