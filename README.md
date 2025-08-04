@@ -184,6 +184,7 @@ Open Pull Request
 📬 Contact
 Arya
 aryarsoni2020@gmail.com
+
 Screenshots:
 <img width="1907" height="989" alt="image" src="https://github.com/user-attachments/assets/17c333ac-fdc4-479f-ae97-ff1753369726" />
 <img width="1883" height="866" alt="image" src="https://github.com/user-attachments/assets/cee079ca-d6e4-457a-ab9f-46f805e195b4" />
